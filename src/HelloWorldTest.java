@@ -6,7 +6,7 @@ public class HelloWorldTest {
 		System.out.println("Hello World changed message");
 		//Added comment
 		//Removed user comment again
-		
+		System.out.println("Added correct message");
 	}
 
 }
