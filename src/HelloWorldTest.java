@@ -7,6 +7,7 @@ public class HelloWorldTest {
 		//Added comment
 		//Removed user comment again
 		System.out.println("Added correct message");
+		System.out.println("commit-1");
 	}
 
 }
